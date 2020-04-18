@@ -7,3 +7,6 @@ var isAGirl = true;
 // yourName = "MissKitKa";
 console.log(yourName);
 console.log(isAGirl);
+
+var age;
+console.log(age);
