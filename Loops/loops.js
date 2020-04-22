@@ -63,13 +63,14 @@ while (number <= 20) {
   number++;
 }
 
-// Exercise 3:
+// ------------infinit loop---------Exercise 3:-----------------------
 
-var numAnother = 100;
+// var numAnother = 100;
 
-// this is infinit loop - will crash your browser
+// this is infinit loop - will crash your browser.
+// 100 is less then 150, even you're adding 1. you have "--" which it makes go down everytime
 
-while (numAnother < 150) {
-  console.log(numAnother + 1);
-  numAnother--;
-}
+// while (numAnother < 150) {
+//   console.log(numAnother + 1);
+//   numAnother--;
+// }
